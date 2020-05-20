@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="twitter Test framework">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener
+			class-name="com.myOrganization.listeners.CustomListeners" />
+	</listeners>
+
+
+	<test name="TwitterUserLoginTest">
+		<classes>
+			<class name="com.myOrganization.testcases.TwitterUserLoginTest" />
+			<class name="com.myOrganization.base.TestBase" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="PostTweetTest">
+		<classes>
+			<class name="com.myOrganization.testcases.PostTweetTest" />
+
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="TwitteruserLogoutTest">
+		<classes>
+			<class name="com.myOrganization.testcases.TwitteruserLogoutTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

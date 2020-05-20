@@ -1,0 +1,27 @@
+[main] DEBUG devpinoyLogger: 60 - Config file loaded!!
+[main] DEBUG devpinoyLogger: 74 - Object repository file loaded!!
+[main] DEBUG devpinoyLogger: 82 - Testdata excel file loaded!!
+[main] DEBUG devpinoyLogger: 100 - Chrome launched!!
+[main] DEBUG devpinoyLogger: 111 - Opening URL---https://twitter.com/explore
+[main] DEBUG devpinoyLogger: 21 - Starting to execute testcase--- twitterUserLoginTest()
+[main] DEBUG devpinoyLogger: 34 - Successfully executed testcase--- twitterUserLoginTest()
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 28 - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger: 46 - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger: 52 - Test case---addCustomer---successfully executed
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 16 - Executing Test case---TwitteruserLogoutTest
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 254 - Test Execution completed

@@ -1,0 +1,12 @@
+[main] DEBUG devpinoyLogger  - Config file loaded!!
+[main] DEBUG devpinoyLogger  - Object repository file loaded!!
+[main] DEBUG devpinoyLogger  - Testdata excel file loaded!!
+[main] DEBUG devpinoyLogger  - Chrome launched!!
+[main] DEBUG devpinoyLogger  - Opening URL---https://twitter.com/explore
+[main] DEBUG devpinoyLogger  - Starting to execute testcase--- twitterUserLoginTest()
+[main] DEBUG devpinoyLogger  - Successfully executed testcase--- twitterUserLoginTest()
+[main] DEBUG devpinoyLogger  - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger  - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger  - Test case---addCustomer---successfully executed
+[main] DEBUG devpinoyLogger  - Executing Test case---TwitteruserLogoutTest
+[main] DEBUG devpinoyLogger  - Test Execution completed
